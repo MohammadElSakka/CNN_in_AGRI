@@ -1,4 +1,4 @@
-# CNN_in_AGRI
+# Convolutional Neural Networks (CNNs) in Agriculture
 This repository lists reviewed literature papers on the topic of CNNs in Agriculture. Contributions are open, please report any technical problem or expired/invalid link.
 
 ## How to cite
