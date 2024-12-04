@@ -2,7 +2,7 @@
 This repository lists reviewed literature papers on the topic of CNNs in Agriculture. Contributions are open, please report any technical problem or expired/invalid link.
 
 ## How to cite
-If this work helped you, please cite [link](https://www.tandfonline.com/doi/full/10.1080/22797254.2024.2352386#d1e297):
+If this work helped you, please cite ([link](https://www.tandfonline.com/doi/full/10.1080/22797254.2024.2352386#d1e297)):
 ```
 @article{el2024images,
   title={Images and CNN applications in smart agriculture},
