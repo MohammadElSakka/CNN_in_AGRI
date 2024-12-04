@@ -2,9 +2,18 @@
 This repository lists reviewed literature papers on the topic of CNNs in Agriculture. Contributions are open, please report any technical problem or expired/invalid link.
 
 ## How to cite
-If this work helped you, please cite this paper:
+If this work helped you, please cite:
 ```
-upcoming
+@article{el2024images,
+  title={Images and CNN applications in smart agriculture},
+  author={El Sakka, Mohammad and Mothe, Josiane and Ivanovici, Mihai},
+  journal={European Journal of Remote Sensing},
+  volume={57},
+  number={1},
+  pages={2352386},
+  year={2024},
+  publisher={Taylor \& Francis}
+}
 ```
 
 ## Weed Detection
