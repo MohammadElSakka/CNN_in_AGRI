@@ -14,6 +14,17 @@ If this work helped you, please cite ([link](https://www.tandfonline.com/doi/ful
   year={2024},
   publisher={Taylor \& Francis}
 }
+
+@article{el2025review,
+  title={A Review of CNN Applications in Smart Agriculture Using Multimodal Data},
+  author={El Sakka, Mohammad and Ivanovici, Mihai and Chaari, Lotfi and Mothe, Josiane},
+  journal={Sensors},
+  volume={25},
+  number={2},
+  pages={472},
+  year={2025},
+  publisher={MDPI}
+}
 ```
 
 ## Weed Detection
